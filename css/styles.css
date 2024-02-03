@@ -9156,3 +9156,21 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+.my-warning-badge {
+  padding: 5px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #fff;
+  background-color: var(--danger);
+  border-radius: 10px;
+}
+
+.my-success-badge {
+  padding: 5px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #fff;
+  background-color: var(--success);
+  border-radius: 10px;
+}
